@@ -67,3 +67,4 @@ Dockerfile text eol=lf
 
 .gitattributes text eol=lf
 .gitignore text eol=lf.github/ merge=ours
+.github/ merge=ours
